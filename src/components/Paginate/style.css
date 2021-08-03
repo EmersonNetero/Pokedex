@@ -1,0 +1,20 @@
+.paginate {
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    color: var(--color-floral-white);
+    background-color: var(--color-pomb-and-power);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color:#472c61;
+    cursor: pointer;
+}
